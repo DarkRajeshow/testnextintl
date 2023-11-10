@@ -1,3 +1,4 @@
+"use client"
 import Test from '@/components/Test';
 import { useTranslations } from 'next-intl';
 
