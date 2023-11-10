@@ -1,5 +1,8 @@
 {
-    "Index": {
-      "title": "Marathi!"
-    }
+  "Index": {
+    "title": "Marathi!"
+  },
+  "Test": {
+    "title": "Marathi Component"
   }
+}

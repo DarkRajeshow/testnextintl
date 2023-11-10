@@ -1,5 +1,8 @@
 {
     "Index": {
         "title": "English!"
+    },
+    "Test":{
+        "title":"English Component"
     }
 }
